@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @2flyypezz
-- 👀 I’m interested in programming,chess,and sports
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Daniel
+- 👀 I’m interested in Programming, Chess, and Finance
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on any projects that could help me learn
 - 📫 How to reach me DISCORD: 2flyypezz 
 
